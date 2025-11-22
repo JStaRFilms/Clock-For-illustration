@@ -1,0 +1,5 @@
+{
+  "name": "ChronoGen",
+  "description": "A precision analog clock generator for creators. Manually set specific times for screenshots or use AI to set the time with natural language.",
+  "requestFramePermissions": []
+}
